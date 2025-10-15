@@ -36,6 +36,7 @@ public class Web_res_lab extends Frame implements ActionListener {
         setLocationRelativeTo(null);
         setVisible(true);
 
+
         addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent we) {
