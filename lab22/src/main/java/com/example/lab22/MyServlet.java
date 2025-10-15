@@ -38,7 +38,6 @@ public class MyServlet extends HttpServlet {
     }
 
     private String translateWord(String word) {
-        // Простой пример словаря
         switch(word.toLowerCase()) {
             case "привет": return "hello";
             case "мир": return "world";

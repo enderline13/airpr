@@ -1,0 +1,8 @@
+привет=hello
+мир=world
+кот=cat
+собака=dog
+дом=house
+солнце=sun
+вода=water
+огонь=fire
